@@ -6,7 +6,6 @@ export default {
     extend: {
       fontFamily: {
         fascinate: ["Fascinate", "cursive"],
-        "porter-sans": ["porter-sans-inline-block"],
       },
     },
   },
