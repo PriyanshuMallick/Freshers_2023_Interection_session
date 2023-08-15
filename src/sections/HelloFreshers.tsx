@@ -19,12 +19,12 @@ function HelloFreshers() {
         <img
           className={`w-auto fade-in transition delay-100`}
           src={getGif(gifs.hi_friends_rachel)}
-          alt=""
+          alt={gifs.hi_friends_rachel.alt}
         />
         <img
           className={`w-auto fade-in transition delay-800`}
           src={getGif(gifs.hi_dj_khaled)}
-          alt=""
+          alt={gifs.hi_dj_khaled.alt}
         />
       </div>
     </section>
