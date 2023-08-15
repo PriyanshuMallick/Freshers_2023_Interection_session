@@ -1,4 +1,5 @@
 import gifs from "../assets/gifs";
+import getGif from "../helpers/getGif";
 
 function WhereYouWillLearn() {
   return (

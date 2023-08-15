@@ -1,5 +1,6 @@
 import gifs from "../assets/gifs";
 import IncrementText from "../components/IncrementalText";
+import getGif from "../helpers/getGif";
 
 function HelloFreshers() {
   return (

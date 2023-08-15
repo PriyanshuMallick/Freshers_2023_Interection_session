@@ -14,3 +14,5 @@ function getGif(gif: gif) {
     console.log("Error on geting GIF link:", error);
   }
 }
+
+export default getGif;
