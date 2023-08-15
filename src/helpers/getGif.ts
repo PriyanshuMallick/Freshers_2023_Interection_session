@@ -1,4 +1,4 @@
-type gif = {
+export type gif = {
   path?: string;
   url: string;
   alt?: string;
